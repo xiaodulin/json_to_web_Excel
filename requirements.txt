@@ -1,0 +1,5 @@
+# requirements.txt 内容示例（根据你的代码修改）
+streamlit>=1.0.0
+pandas>=2.0.0
+openpyxl>=3.0.0
+numpy>=1.24.0
